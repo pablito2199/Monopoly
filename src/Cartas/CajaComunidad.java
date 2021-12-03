@@ -1,5 +1,5 @@
 package Cartas;
-
+<ad
 import Casillas.Casilla;
 import Excepciones.CasillaExcepcion.Compra.SinDinero;
 import Jugadores.Avatar;
